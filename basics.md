@@ -1,9 +1,5 @@
 ## ☁ Cloud Foundations - Basics
 
-## Introduction to Cloud
-
-1. First of all, there is nothing like a "Cloud" that powers the Internet. It is somebody else's computer in a Datacenter.
-
 ## Definition
 
 Cloud computing refers to the delivery of on-demand computing resources, such as servers, storage, applications, and services, over the internet. Basically, the servers that are accessed over the Internet, and the software and databases that run on those servers. These servers are located all over the world. 
