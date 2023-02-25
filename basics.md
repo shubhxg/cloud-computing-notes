@@ -1,4 +1,4 @@
-## ☁ CLoud Foundations - Basics
+## ☁ Cloud Foundations - Basics
 
 ## Introduction to Cloud
 
