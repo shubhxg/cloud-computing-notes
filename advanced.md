@@ -128,6 +128,22 @@ Infrastructure automation is a key component of DevOps, as it involves automatin
 
 **DevOps** teams often use tools like configuration management tools (such as Ansible, Chef, and Puppet), infrastructure-as-code tools (such as Terraform and CloudFormation), and containerization technologies (such as Docker and Kubernetes) to automate the provisioning and management of infrastructure resources.
 
+# Infrastructure As Code
+Infrastructure as Code (IaC) is a practice under infrastructure automation in which infrastructure provisioning and management are done through code rather than manual processes. With IaC, you define your infrastructure requirements in a declarative language or configuration files, and then use automation tools to provision and manage your infrastructure based on that code.
+
+**Benefits of Infrastructure as Code:**
+ ### Reproducibility 
+- Infrastructure configurations can be version controlled, allowing you to easily reproduce and track changes to your infrastructure over time.
+ ### Scalability 
+- IaC enables you to easily scale your infrastructure up or down by modifying the code, making it more adaptable to changing demands.
+ ### Consistency
+- With IaC, you can ensure that your infrastructure is consistent across different environments, reducing configuration drift and making deployments more reliable.
+ ### Collaboration
+- Infrastructure code can be shared and collaborated on by teams, promoting collaboration and standardization across the organization.
+ ### Testing and Validation
+- Infrastructure code can be tested and validated before deployment, reducing the risk of misconfigurations and errors in production.
+
+
 ![devops-logo (1)](https://user-images.githubusercontent.com/69891912/229453535-254ae001-f3f9-45cb-bf8f-508af526b522.jpg)
 
 **Some popular tools for infrastructure automation include:**
